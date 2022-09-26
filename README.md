@@ -1,1 +1,1 @@
-This is a README
+This is a README for alx-pre_course
